@@ -37,3 +37,7 @@ body{
         width:100%;
     }
 }
+a{
+    color:#444;
+    text-decoration: none;
+}
